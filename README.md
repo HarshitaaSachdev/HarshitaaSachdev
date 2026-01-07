@@ -12,17 +12,6 @@ I enjoy working on **clean UI, scalable systems, and AI-powered tools** that sol
 
 ---
 
-## 🎓 Education
-
-**Bachelor of Engineering (Information Technology)**  
-Thadomal Shahani Engineering College  
-CGPA: **8.65** | 2022 – 2025  
-
-**Diploma in Computer Engineering**  
-Vivekanand Education Society of Polytechnic  
-2019 – 2022  
-
----
 
 ## 🛠️ Skills
 
